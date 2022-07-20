@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## I'm Hieu. I am working as a backend developer.
 <!--
 **vanhieuthekop/vanhieuthekop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
